@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeomdXpmIPD9yjkJehEUgQZSU6L9bCamvVq4uNaq3bgwy5f2O7VsNtIOiBVbnQ97mMyTR+zpt0LtA/2MS+2s8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SettingsPC\\Source\\Repos\\HRProject\\HRProject.Domain\\HRProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SettingsPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\SettingsPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SettingsPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
